@@ -2,6 +2,8 @@
 
 This list aims at guiding people on how to be better sharers on the bittorrent network.
 
+If you are looking for more details on a specific tool, search for it on your trackers' forums; there will likely be a thread for it.
+
 ## Upload helpers
 
 Automating what is possible about the upload process.
@@ -53,6 +55,8 @@ Supported sites: PTP
 - Cross-Seed: Seed your existing torrents on other trackers. ([github](https://github.com/cross-seed/cross-seed), [site](https://www.cross-seed.org/))
 
 - Mkbrr: Create, modify and inspect torrent files. ([github](https://github.com/autobrr/mkbrr), [site](https://mkbrr.com/introduction))
+
+- Propolis: Music file (FLAC) checker for common trumpable rules. ([gitlab](https://gitlab.com/passelecasque/propolis))
 
 ## Related lists
 
