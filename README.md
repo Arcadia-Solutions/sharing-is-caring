@@ -10,6 +10,10 @@ Automating what is possible about the upload process.
 
 Supported sites: RED, OPS
 
+- CRTAssistant: Upload helper for CRT (and other tracker). ([codeberg](https://codeberg.org/liliumstar/crtassistant))
+
+Supported sites: CRT, ?
+
 - Redcurry: Upload existing torrents from one site to another. ([gitlab](https://gitlab.com/_mclovin/redcurry))
 
 Supported sites: RED, OPS
@@ -21,6 +25,10 @@ Supported sites: RED, OPS
 - Upload-Assistant: Movie/TV-Show upload helper. ([github](https://github.com/Audionut/Upload-Assistant))
 
 Supported sites: ACM, Aither, AL, ANT, AR, ASC, BHD, BHDTV, BLU, BT, CBR, DP, FRIKI, FNP, FL, HDB, HDS, HDT, HHD, HP, HUNO, ITT, LCD, LST, LT, MTV, NBL, OE, OTW, PSS, PT, PTP, PTER, PTT, RF, R4E(limited), RAS, RTF, SAM, SHRI, SN, SP, SPD, STC, STT, TLC, THR, TL, TOCA, TVC, TTG, UHD, ULCX, UTP, YOINK, YUS
+
+- Upsies: Movie/TV-Show upload helper. ([codeberg](https://codeberg.org/plotski/upsies))
+
+Supported sites: ANT, CBR, BHD, MTV, NBL, PTP, UHD
 
 ## User Scripts
 
