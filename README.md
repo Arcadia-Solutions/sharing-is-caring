@@ -20,6 +20,8 @@ Automating what is possible about the upload process.
   - Supported trackers: ACM, Aither, AL, ANT, AR, ASC, BHD, BHDTV, BLU, BT, CBR, DP, FRIKI, FNP, FL, HDB, HDS, HDT, HHD, HP, HUNO, ITT, LCD, LST, LT, MTV, NBL, OE, OTW, PSS, PT, PTP, PTER, PTT, RF, R4E(limited), RAS, RTF, SAM, SHRI, SN, SP, SPD, STC, STT, TLC, THR, TL, TOCA, TVC, TTG, UHD, ULCX, UTP, YOINK, YUS
 - [upsies](https://codeberg.org/plotski/upsies) - Movie/TV-Show upload helper.
   - Supported trackers: ANT, CBR, BHD, MTV, NBL, PTP, UHD
+- [NfoForge](https://github.com/jesterr0/NfoForge) - Movie upload helper (GUI).
+  - Support trackers: Aither, BHD, HUNO, LST, MTV, PTP, RF, TL
 
 ## User Scripts
 
@@ -40,6 +42,7 @@ They inject code into the page and interract with the UI.
 - [cross-seed](https://github.com/cross-seed/cross-seed) - Seed your existing torrents on other trackers.
 - [mkbrr](https://github.com/autobrr/mkbrr) - Create, modify and inspect torrent files.
 - [Propolis](https://gitlab.com/passelecasque/propolis) - Music file (FLAC) checker for common trumpable rules.
+- [autobrr](https://github.com/autobrr/autobrr) - IRC auto downloader.
 
 ## Related Lists
 
