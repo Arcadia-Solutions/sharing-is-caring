@@ -20,6 +20,8 @@ Automating what is possible about the upload process.
   - Supported trackers: ACM, Aither, AL, ANT, AR, ASC, BHD, BHDTV, BLU, BT, CBR, DP, FRIKI, FNP, FL, HDB, HDS, HDT, HHD, HP, HUNO, ITT, LCD, LST, LT, MTV, NBL, OE, OTW, PSS, PT, PTP, PTER, PTT, RF, R4E(limited), RAS, RTF, SAM, SHRI, SN, SP, SPD, STC, STT, TLC, THR, TL, TOCA, TVC, TTG, UHD, ULCX, UTP, YOINK, YUS
 - [upsies](https://codeberg.org/plotski/upsies) - Movie/TV-Show upload helper.
   - Supported trackers: ANT, CBR, BHD, MTV, NBL, PTP, UHD
+- [NfoForge](https://github.com/jesterr0/NfoForge) - Movie upload helper (GUI).
+  - Support trackers: Aither, BHD, HUNO, LST, MTV, PTP, RF, TL
 
 ## User Scripts
 
@@ -27,6 +29,10 @@ They inject code into the page and interract with the UI.
 
 - [yadg-pth-userscript](https://github.com/SavageCore/yadg-pth-userscript) - Autofill upload/edit forms for music releases.
   - Supported trackers: RED, OPS, DB9, DIC, d3si
+- [easy-upload](https://github.com/techmovie/easy-upload/blob/master/README-en.md) - Easy-upload is a userscript that supports reproducing torrents for mainstream Chinese and international private trackers sites. It reduces repetitive work, making the upload process more convenient.
+  - Supported trackers: To many to list.
+- [Find-Unique-Titles](https://github.com/Moreasan/trackers-userscripts/blob/master/Find%20Unique%20Titles/dist/find.unique.titles.user.js) - Find unique titles from one site to add to another.
+  - Supported trackers: Aither, BHD, BLU, BTARG, CG, FL, GPW, HDB, HDT, IPT, KG, LST, MTV, PTP, PTER, TIK, TL, TS. 
 
 ## Bots
 
