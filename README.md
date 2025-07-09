@@ -29,6 +29,10 @@ They inject code into the page and interract with the UI.
 
 - [yadg-pth-userscript](https://github.com/SavageCore/yadg-pth-userscript) - Autofill upload/edit forms for music releases.
   - Supported trackers: RED, OPS, DB9, DIC, d3si
+- [easy-upload](https://github.com/techmovie/easy-upload/blob/master/README-en.md) - Easy-upload is a userscript that supports reproducing torrents for mainstream Chinese and international private trackers sites. It reduces repetitive work, making the upload process more convenient.
+  - Supported trackers: To many to list.
+- [Find-Unique-Titles](https://github.com/Moreasan/trackers-userscripts/blob/master/Find%20Unique%20Titles/dist/find.unique.titles.user.js) - Find unique titles from one site to add to another.
+  - Supported trackers: Aither, BHD, BLU, BTARG, CG, FL, GPW, HDB, HDT, IPT, KG, LST, MTV, PTP, PTER, TIK, TL, TS. 
 
 ## Bots
 
@@ -42,7 +46,6 @@ They inject code into the page and interract with the UI.
 - [cross-seed](https://github.com/cross-seed/cross-seed) - Seed your existing torrents on other trackers.
 - [mkbrr](https://github.com/autobrr/mkbrr) - Create, modify and inspect torrent files.
 - [Propolis](https://gitlab.com/passelecasque/propolis) - Music file (FLAC) checker for common trumpable rules.
-- [autobrr](https://github.com/autobrr/autobrr) - IRC auto downloader.
 
 ## Related Lists
 
