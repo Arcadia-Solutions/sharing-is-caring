@@ -12,6 +12,8 @@ Automating what is possible about the upload process.
   - Supported trackers: RED, OPS
 - [CRT Assistant](https://codeberg.org/liliumstar/crtassistant) - Upload helper for CRT (and other trackers).
   - Supported trackers: CRT, ...
+- [REDCamp](https://github.com/TrackerTools/REDCamp) - Upload Bandcamp releases to Redacted with assistance.
+  - Supported trackers: RED
 - [RedCurry](https://gitlab.com/_mclovin/redcurry) - Upload existing torrents from one site to another.
   - Supported trackers: RED, OPS
 - [smoked-salmon](https://github.com/smokin-salmon/smoked-salmon) - Music upload helper.
