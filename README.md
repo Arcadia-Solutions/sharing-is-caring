@@ -47,6 +47,7 @@ They inject code into the page and interract with the UI.
 
 - [cross-seed](https://github.com/cross-seed/cross-seed) - Seed your existing torrents on other trackers.
 - [mkbrr](https://github.com/autobrr/mkbrr) - Create, modify and inspect torrent files.
+- [nemorosa](https://github.com/KyokoMiki/nemorosa) - Cross-seeding tool specifically designed for Gazelle-based music trackers.
 - [Propolis](https://gitlab.com/passelecasque/propolis) - Music file (FLAC) checker for common trumpable rules.
 
 ## Related Lists
